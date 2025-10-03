@@ -15,11 +15,9 @@ Query Google Scholar (via SerpApi) for:
 
 ### Why it matters?
 
--Eliminates manual copy/paste from Scholar pages.
-
--Standardizes how data is collected and makes it reproducible.
-
--Provides a foundation to plug results into other systems (registries, analytics, dashboards).
+- Eliminates manual copy/paste from Scholar pages.
+- Standardizes how data is collected and makes it reproducible.
+- Provides a foundation to plug results into other systems (registries, analytics, dashboards).
 
 
 
