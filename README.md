@@ -1,5 +1,7 @@
 # Server_Database
-## Project Overview
+
+A small Java (Maven) console app that integrates with SerpApi to query Google Scholar and display results in the terminal.
+It was built following a lightweight MVC approach (controller + service + simple view) to keep the code easy to read and extend.
 
 ### Project purpose:
 
