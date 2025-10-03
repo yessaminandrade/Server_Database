@@ -13,12 +13,11 @@ Query Google Scholar (via SerpApi) for:
 - Author profiles (names, affiliations, citation metrics)
 - Filter and customize searches (language, year ranges, pagination).
 
-### Project relevance:
+### Why it matters?
 
-This project eliminates manual copy/paste from Google Scholar and standardizes how data is collected. It streamlines integration with institutional systems (researcher registry, publications catalog, KPIs) and helps maintain current, consistent metadata for reporting and analytics.
-
-### The technical report for the Google Scholar API is included in this repository.
-It covers: Endpoints, Authentication, Query parameters, Response formats, Usage limits, and Code examples.
+-Eliminates manual copy/paste from Scholar pages.
+-Standardizes how data is collected and makes it reproducible.
+-Provides a foundation to plug results into other systems (registries, analytics, dashboards).
 
 
 
